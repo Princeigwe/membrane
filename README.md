@@ -57,6 +57,12 @@ Hospital backend                            │
 | API server | NestJS + TypeORM |
 | Language | TypeScript |
 
+
+## Contract address (Midnight preview-testnet)
+```bash
+e03c6abcd309f053d96913999e6ea2ba5ce3b15386860f039e2c9e65e69d03e3
+```
+
 ## Project structure
 
 
@@ -106,7 +112,7 @@ npm run compile
 npm run deploy-local
 ```
 
-### Contract Interaction
+### Contract Interaction (Circuit calls found in *contract/src/membrane.interact.ts*)
 
 ```bash
 npm run membrane-interact
