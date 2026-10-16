@@ -71,6 +71,8 @@ membrane/
 |   |  ├── wallet.ts                 # Wallet creation and sync
 |
 |__ membrane-api/
+|
+|-- ui/
 
 
 ```
